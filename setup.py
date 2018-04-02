@@ -12,5 +12,6 @@ setup(
     author="ShopEx",
     author_email="daixinyu@shopex.cn",
     license="LGPL",
+    url="https://github.com/daiyuok/py_rpm",
     platforms=["README.md"],
 )
